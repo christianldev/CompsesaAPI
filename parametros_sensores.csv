@@ -1,0 +1,13 @@
+id,codigo_parametro,descripcion_larga,descripcion_med,descripcion_corta,abreviacion,observacion,fecha_creacion,fecha_modificacion,estado,unidad
+17,18054,RADIACION,RADIACION,RADIACION,RAD,RADIACION INSTANTANEA DE LA ESTACION ATMOS,6/7/2023 11:15,6/7/2023 11:15,A,W/m2
+13,18036,HUMEDAD,HUMEDAD,HUMEDAD,HUM,HUMEDAD INSTANTANEA DE LA ESTACION ATMOS,6/7/2023 11:15,6/7/2023 11:15,A,%
+1,18001,TEMPERATURA,TEMPERATURA,TEMPERATURA,TEMP,ES LA TEMPERATURA INSTANTANEA DE LA ESTACION ATMOS,6/7/2023 11:15,6/7/2023 11:15,A,°C
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
