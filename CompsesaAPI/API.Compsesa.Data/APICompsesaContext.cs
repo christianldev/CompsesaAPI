@@ -6,13 +6,10 @@ namespace API.Compsesa.Data;
 
 public class APICompsesaContext : DbContext
 {
-    public APICompsesaContext(DbContextOptions options) : base(options) { }
+    public APICompsesaContext(DbContextOptions<APICompsesaContext> options) : base(options) { }
+    public APICompsesaContext() { }
     public DbSet<DatosSensores> DatosSensores { get; set; }
     public DbSet<Sensores> Sensores { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseNpgsql();
-    }
 
 }

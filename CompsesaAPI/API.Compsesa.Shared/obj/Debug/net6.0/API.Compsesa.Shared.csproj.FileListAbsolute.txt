@@ -1,0 +1,12 @@
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\bin\Debug\net6.0\API.Compsesa.Shared.deps.json
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\bin\Debug\net6.0\API.Compsesa.Shared.dll
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\bin\Debug\net6.0\API.Compsesa.Shared.pdb
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.csproj.AssemblyReference.cache
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.AssemblyInfoInputs.cache
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.AssemblyInfo.cs
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.csproj.CoreCompileInputs.cache
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.dll
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\refint\API.Compsesa.Shared.dll
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\API.Compsesa.Shared.pdb
+D:\CompsesaAPI\CompsesaAPI\API.Compsesa.Shared\obj\Debug\net6.0\ref\API.Compsesa.Shared.dll
