@@ -10,4 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\API.Compsesa.Data\API.Compsesa.Data.csproj" />
+    <ProjectReference Include="..\API.Compsesa.Shared\API.Compsesa.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

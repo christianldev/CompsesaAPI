@@ -19,4 +19,8 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\API.Compsesa.Shared\API.Compsesa.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

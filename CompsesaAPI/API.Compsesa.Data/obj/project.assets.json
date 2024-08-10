@@ -359,6 +359,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "API.Compsesa.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/API.Compsesa.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Compsesa.Shared.dll": {}
+        }
       }
     }
   },
@@ -812,10 +822,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "API.Compsesa.Shared/1.0.0": {
+      "type": "project",
+      "path": "../API.Compsesa.Shared/API.Compsesa.Shared.csproj",
+      "msbuildProject": "../API.Compsesa.Shared/API.Compsesa.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "API.Compsesa.Shared >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.32",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.32",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.32",
@@ -828,11 +844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\API.Compsesa.Data.csproj",
+      "projectUniqueName": "D:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\API.Compsesa.Data.csproj",
       "projectName": "API.Compsesa.Data",
-      "projectPath": "d:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\API.Compsesa.Data.csproj",
+      "projectPath": "D:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\API.Compsesa.Data.csproj",
       "packagesPath": "C:\\Users\\clope\\.nuget\\packages\\",
-      "outputPath": "d:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\obj\\",
+      "outputPath": "D:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clope\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -846,7 +862,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Shared\\API.Compsesa.Shared.csproj": {
+              "projectPath": "D:\\CompsesaAPI\\CompsesaAPI\\API.Compsesa.Shared\\API.Compsesa.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
